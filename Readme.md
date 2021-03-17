@@ -8,7 +8,7 @@ For this module you are going to build your skills of building decision tree mod
 ### Grade Break Down
 | Part   |                    | Points |
 |--------|--------------------|--------| 
-| Part 1 | Python CART Modeling     | 25 pts |  
+| Part 1 | Python & R CART Modeling     | 25 pts |  
 | Part 2 | Predict target variable with test data  | 25 pts |
 |        |                    |Total: 50|
 
