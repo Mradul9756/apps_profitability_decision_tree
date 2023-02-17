@@ -1,4 +1,4 @@
-# Continuation of elemantary data analysis project on apps profitability
+# Continuation of elementary data analysis project on apps profitability
 
 ### Dataset description
 
