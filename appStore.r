@@ -1,9 +1,7 @@
 ########################################################################################
 # program: AppStore.r
 # author: Mradul Mourya
-# date: 03/24/2021
-# Project: LM4 R cart modeling on a data set from Apple store 
-# Reference: Professor Jones in class examples and textbook for this class
+# Project: R cart modeling on a data set from Apple store 
 ########################################################################################
 
 # install the packages for C50
@@ -16,7 +14,7 @@ library(ggplot2)
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
 # read in the training data set as training_data
-appStore_data <- read.csv("/Users/mmourya23/Documents/Intro to Data Science/LM4/AppleStore (1).csv")
+appStore_data <- read.csv("AppleStore (1).csv")
 
 # set the seed for the random number generator for later use
 set.seed(7)
