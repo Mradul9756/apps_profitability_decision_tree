@@ -1,9 +1,6 @@
 ########################################################################################
 # program: AppStore.py
 # author: Mradul Mourya
-# date: 03/24/2021
-# Project: LM4 R cart modeling on a data set from Apple store 
-# Reference: Professor Jones in class examples and textbook for this class
 ########################################################################################
 
 # import all the libraries
@@ -17,7 +14,7 @@ import graphviz
 plt.rcParams.update({'figure.autolayout': True})
 
 # read into the file
-apps = pd.read_csv("/Users/mmourya23/Documents/Intro to Data Science/LM4/AppleStore (1).csv")
+apps = pd.read_csv("AppleStore (1).csv")
 
 # split the data into two parts, one is training data set and the other is test data set
 appStore_train, appStore_test = train_test_split( apps, test_size = 0.25, random_state = 7 )
