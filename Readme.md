@@ -2,9 +2,9 @@
 
 ### Dataset description
 
-  This data set is about Mobile app statistics from apple IOS app store. I’ve chosen to work on this data as I’ve done some previous
-  analysis on the data. The analysis was simply finding the app category which attracts the most number of users and which category would be profitable for
-  building new applications on app store. I’ve found this data here: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
+This data set is about Mobile app statistics from apple IOS app store. I’ve chosen to work on this data as I’ve done some previous
+analysis on the data. The analysis was simply finding the app category which attracts the most number of users and which category would be profitable for
+building new applications on app store. I’ve found this data here: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
 
 ### Decision nodes
 
